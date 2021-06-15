@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby 
+
+require_relative '../lib/environment'
+
+Top_100::CLI.new.call 
